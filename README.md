@@ -1,4 +1,4 @@
-DS3001: Case Study 02
+DS3001: Case Study 03
 =====================
 
 Team:
@@ -8,12 +8,12 @@ Team:
 * [Aditya Nivarthi](https://github.com/SIZMW)
 
 ## Description
-This project demonstrates analyzing Yelp data to provide comparisons of restaurant ratings across different types of cuisines in various cities around the world.
+This project demonstrates an [OpenAI](https://gym.openai.com/) agent that can collect data from a game and train itself to play the game better, on a much smaller scale than realistic scenarios such as delivery drones.
 
 ## Building
 This project requires the following packages:
-* `basemap`: Download [here](https://sourceforge.net/projects/matplotlib/files/matplotlib-toolkits/basemap-1.0.7/)
+* `gym`: Install with `pip install gym[all]`
 * `matplotlib`: Install with `pip install matplotlib`
 
 ## Execution
-The notebook `case2.ipynb` can be executed top to bottom to produce our results and visualizations.
+The notebook `case3.ipynb` can be executed top to bottom to produce our results and visualizations.

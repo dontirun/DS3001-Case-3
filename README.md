@@ -14,6 +14,8 @@ This project demonstrates an [OpenAI](https://gym.openai.com/) agent that can co
 This project requires the following packages:
 * `gym`: Install with `pip install gym[all]`
 * `matplotlib`: Install with `pip install matplotlib`
+* `pybrain`: Follow instructions [here](https://github.com/pybrain/pybrain/wiki/Installation) to install
+* `numpy`: Install with `pip install numpy`
 
 ## Execution
-The notebook `case3.ipynb` can be executed top to bottom to produce our results and visualizations.
+The notebook [case3.ipynb](case3.ipynb) can be executed top to bottom to produce our results and visualizations.
